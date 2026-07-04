@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Tutul Majumder  
 
 # 💫 About Me:
-🔭 I’m currently studying **Computer Science & Engineering (3rd year)** at **American International University-Bangladesh (AIUB)**  <br>👯 I’m looking to collaborate on projects – reach me at **majumder.tutul.364@gmail.com**  <br>🌱 I’m currently learning **Machine Learning, Deep Learning, and NLP**  <br>🤝 I’m looking for help with **research ideas and real-world applications of AI**  <br>💬 Ask me about **Python, Data Science, and AI-related topics**  <br>⚡ Fun fact: *I believe every bug I fix teaches me more than any tutorial!*
+🔭 I’m currently studying **Computer Science & Engineering (4th year)** at **American International University-Bangladesh (AIUB)**  <br>👯 I’m looking to collaborate on projects – reach me at **majumder.tutul.364@gmail.com**  <br>🌱 I’m currently learning **Machine Learning, Deep Learning, and NLP**  <br>🤝 I’m looking for help with **research ideas and real-world applications of AI**  <br>💬 Ask me about **Python, Data Science, and AI-related topics**  <br>⚡ Fun fact: *I believe every bug I fix teaches me more than any tutorial!*
 
 
 ## 🌐 Socials:
