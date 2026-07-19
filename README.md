@@ -19,8 +19,8 @@
 
 ---
 
-- 💻 Currently interning as a **Software Engineer Intern @ Tech Enovative**, working on RAG systems, LLM integration, and full-stack SaaS features
-- 🎓 Studying for my **BSc in Computer Science and Engineering** at American International University-Bangladesh
+- 💻 **Software Engineer Intern @ Tech Enovative**, working on RAG systems, LLM integration, and full-stack SaaS features
+- 🎓 **BSc in Computer Science and Engineering** at American International University-Bangladesh
 - 🚀 Full-stack developer, building with **Next.js, NestJS, PostgreSQL, Prisma**
 - 🤖 Currently exploring **AI/ML Engineering** — RAG pipelines, vector databases, embeddings
 - 🌱 Actively growing my skills across the stack, one project at a time
