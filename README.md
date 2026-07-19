@@ -14,7 +14,7 @@
 - 🌐 See it in action: [**Portfolio**](https://tutul-portfolio.vercel.app) · [**Resume**](https://drive.google.com/file/d/1w8acPdEaydnyjHVmrxL2Wjdlp1NoN4gZ/view?usp=sharing)
 - 📬 Let's talk: [**Email**](mailto:majumder.tutul.364@gmail.com)
 
-## 🌐 Socials:
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 <p align="center">
   <a href="https://linkedin.com/in/tutulm" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-# 💻 Tech Stack:
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,cpp,cs,java,php,py,r)](https://github.com/TutulMajumder)
 
@@ -55,7 +55,7 @@
 ### Tools & Technologies
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/TutulMajumder)
 
-# <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 <p align="center">
   <img height="220" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TutulMajumder&theme=github_dark" />
