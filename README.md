@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Tutul Majumder  
+<h1 align="center">Hi, This is Tutul Majumder 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+Tech+Enovative;Curious+Full-Stack+Dev;Next.js%2C+NestJS%2C+PostgreSQL;Interested+in+AI%2FML+Engineering" alt="Typing SVG" />
+</p>
 
 # 💫 About Me:
 🔭 I’m currently studying **Computer Science & Engineering (4th year)** at **American International University-Bangladesh (AIUB)**  <br>👯 I’m looking to collaborate on projects – reach me at **majumder.tutul.364@gmail.com**  <br>🌱 I’m currently learning **Machine Learning, Deep Learning, and NLP**  <br>🤝 I’m looking for help with **research ideas and real-world applications of AI**  <br>💬 Ask me about **Python, Data Science, and AI-related topics**  <br>⚡ Fun fact: *I believe every bug I fix teaches me more than any tutorial!*
