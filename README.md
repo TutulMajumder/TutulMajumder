@@ -51,6 +51,11 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma" />
 </p> 
 
+### AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv" />
+</p>
+
 ### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
