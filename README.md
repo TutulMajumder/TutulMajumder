@@ -72,8 +72,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TutulMajumder&theme=dark&hide_border=true&background=15130F&ring=E3A34D&fire=E3A34D&currStreakLabel=E3A34D" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TutulMajumder&theme=cobalt" />
+</p> -->
+
+<p align=center>
+  <br><br><br><br><br><br><br><br><br>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TutulMajumder&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 # 🏆 GitHub Trophies
@@ -102,12 +109,5 @@
 </p>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <br><br><br><br><br><br><br><br><br>
-  <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TutulMajumder&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
 
