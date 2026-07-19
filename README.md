@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+Tech+Enovative;Curious+Full-Stack+Web+Developer;Next.js%2C+NestJS%2C+PostgreSQL;Interested+in+AI%2FML+Engineering" alt="Typing SVG" />
 </p>
 
-# 💫 About Me:
+## <img src="https://media0.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"><b> ABOUT ME:</b>
 - 👋 Hi, I'm **[@TutulMajumder](https://github.com/TutulMajumder)** — I got into code by taking things apart just to see how they worked
 - 🧪 Currently a **Software Engineer Intern @ Tech Enovative**, building SaaS product with **Next.js + Nest.js + Prisma + Postgres**
 - 🎨 Turning designs into interfaces with **Next.js, React, TypeScript, Tailwind CSS**
@@ -29,6 +29,14 @@
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" />
   </a>
 </p>
+
+
+
+## <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"><b> SOCIALS:</b>
+
+## <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"><b> GITHUB STATS:</b>
+
+## <img src="https://media0.giphy.com/media/xUOxfjsW5G9wPFXFtu/giphy.gif" width="35"><b> GITHUB TROPHIES:</b>
 
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 ### Languages
@@ -100,13 +108,4 @@
 <p align="center">
   <i>Thanks for stopping by — always happy to connect and talk code!</i>
 </p>
-
-
-## 
-
-
-### GitHub Contributions:
-![Snake Grid](https://github.com/TutulMajumder/contribution-snake/blob/output/grid.svg)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TutulMajumder&label=Profile%20views&color=0e75b6&style=flat" alt="TutulMajumder" /> </p>
 
