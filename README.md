@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+Tech+Enovative;Curious+Full-Stack+Web+Developer;Next.js%2C+NestJS%2C+PostgreSQL;Interested+in+AI%2FML+Engineering" alt="Typing SVG" />
 </p>
 
-## <img src="https://media0.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"><b> ABOUT ME:</b>
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZnNWhlbmM5eW5hdjJwcmtxemVsOW80dGhrbms5M2tzbjR6YjRvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="35"><b> ABOUT ME:</b>
 - 👋 Hi, I'm **[@TutulMajumder](https://github.com/TutulMajumder)** — I got into code by taking things apart just to see how they worked
 - 🧪 Currently a **Software Engineer Intern @ Tech Enovative**, building SaaS product with **Next.js + Nest.js + Prisma + Postgres**
 - 🎨 Turning designs into interfaces with **Next.js, React, TypeScript, Tailwind CSS**
@@ -31,6 +31,11 @@
 </p>
 
 
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZpZ3ZicTg2aHZkODcxY2s3djdpMTNpd2Z1cXRrbHgzaTV3bTF2OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cEY6FZtOJOIcbQuKty/giphy.gif" width="35"><b> SOCIALS:</b>
+
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZnNWhlbmM5eW5hdjJwcmtxemVsOW80dGhrbms5M2tzbjR6YjRvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u4nJPf0JtQPdStq/100.gif" width="35"><b> GITHUB STATS:</b>
+
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pzNWNnbG1yMmxiYXd2OXY5bG14cmh5anAxMG1iaGRncHQ5ZGNnZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9xt1MUZqkneFiWrAAD/giphy.gif" width="35"><b> GITHUB TROPHIES:</b>
 
 ## <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"><b> SOCIALS:</b>
 
