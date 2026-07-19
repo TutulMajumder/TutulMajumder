@@ -31,34 +31,25 @@
 </p>
 
 # 💻 Tech Stack:
-### Languages
+## Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,php,py,r" />
 </p>
-
-### Frontend
+## Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
-
-### Frameworks
+## Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" />
 </p>
-
-### Backend
+## Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma" />
 </p>
-
-### Database
+## Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TutulMajumder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
