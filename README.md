@@ -106,7 +106,7 @@
 
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://github.com/TutulMajumder/contribution-snake/blob/output/grid.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TutulMajumder&label=Profile%20views&color=0e75b6&style=flat" alt="TutulMajumder" /> </p>
 
