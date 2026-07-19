@@ -72,6 +72,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TutulMajumder&theme=dark&hide_border=true&background=15130F&ring=E3A34D&fire=E3A34D&currStreakLabel=E3A34D" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TutulMajumder&theme=cobalt" />
+</p>
+
 # 🏆 GitHub Trophies
 
 <p align="center">
