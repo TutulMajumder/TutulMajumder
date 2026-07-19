@@ -80,13 +80,25 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TutulMajumder&theme=react-dark&hide_border=true&bg_color=15130F&color=E3A34D&line=4FB6A6&point=F1ECE0" />
 </p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TutulMajumder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TutulMajumder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TutulMajumder&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
+  </a>
+</p>
+
+# 🔝 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=TutulMajumder&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TutulMajumder&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=TutulMajumder&icon=1&color=0" />
+  </a>
+</p>
