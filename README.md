@@ -64,6 +64,13 @@
 # GitHub Stats
 
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TutulMajumder&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TutulMajumder&theme=github_dark" />
+</p>
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TutulMajumder&show_icons=true&theme=dark&hide_border=true&bg_color=15130F&title_color=E3A34D&icon_color=4FB6A6&text_color=F1ECE0" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TutulMajumder&theme=dark&hide_border=true&background=15130F&ring=E3A34D&fire=E3A34D&currStreakLabel=E3A34D" />
 </p>
