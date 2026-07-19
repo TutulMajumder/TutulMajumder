@@ -60,7 +60,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
 </p>
-### GitHub Stats
+
+# GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TutulMajumder&show_icons=true&theme=dark&hide_border=true&bg_color=15130F&title_color=E3A34D&icon_color=4FB6A6&text_color=F1ECE0" />
