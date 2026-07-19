@@ -108,5 +108,11 @@
 </p>
 
 
+## 
+<img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
 
