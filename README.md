@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
 </p>
 
-# GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="220" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TutulMajumder&theme=github_dark" />
@@ -69,16 +69,7 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TutulMajumder&show_icons=true&theme=dark&hide_border=true&bg_color=15130F&title_color=E3A34D&icon_color=4FB6A6&text_color=F1ECE0" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TutulMajumder&theme=dark&hide_border=true&background=15130F&ring=E3A34D&fire=E3A34D&currStreakLabel=E3A34D" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TutulMajumder&layout=compact&theme=dark&hide_border=true&bg_color=15130F&title_color=E3A34D&text_color=F1ECE0" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TutulMajumder&theme=react-dark&hide_border=true&bg_color=15130F&color=E3A34D&line=4FB6A6&point=F1ECE0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TutulMajumder&theme=dark&hide_border=true&background=15130F&ring=E3A34D&fire=E3A34D&currStreakLabel=E3A34D" />
 </p>
 
 # 🏆 GitHub Trophies
@@ -99,4 +90,9 @@
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=TutulMajumder&icon=1&color=0" />
   </a>
+</p>
+
+
+<p align="center">
+  <i>Thanks for stopping by — always happy to connect and talk code!</i>
 </p>
