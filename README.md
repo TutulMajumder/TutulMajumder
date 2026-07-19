@@ -25,8 +25,8 @@
   <a href="https://instagram.com/2tul_aaaaaa" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
-  <a href="mailto:majumder.tutul.364@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+  <a href="https://discord.com/users/snevernia" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" />
   </a>
 </p>
 
