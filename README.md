@@ -55,7 +55,7 @@
 ### Tools & Technologies
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/TutulMajumder)
 
-# 📊 GitHub Stats
+<img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 <p align="center">
   <img height="220" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TutulMajumder&theme=github_dark" />
@@ -103,10 +103,10 @@
 
 
 ## 
-<img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/TutulMajumder/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://github.com/tauhidcodes/contribution-snake/blob/output/grid.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TutulMajumder&label=Profile%20views&color=0e75b6&style=flat" alt="TutulMajumder" /> </p>
 
