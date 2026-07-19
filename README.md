@@ -32,34 +32,28 @@
 
 # 💻 Tech Stack:
 ### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,php,py,r" />
-</p>
+[![Languages](https://skillicons.dev/icons?i=js,ts,cpp,cs,java,php,py,r)](https://github.com/TutulMajumder)
 
 ### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://github.com/TutulMajumder)
 
 ### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" />
-</p>
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi)](https://github.com/TutulMajumder)
 
 ### Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma" />
-</p> 
+[![Database](https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma)](https://github.com/TutulMajumder)
 
 ### AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv" />
-</p>
+[![AI / ML](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv)](https://github.com/TutulMajumder)
 
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
-</p>
+### Deployment Platform
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/TutulMajumder)
+
+### Design & Graphics
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/TutulMajumder)
+
+### Tools & Technologies
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/TutulMajumder)
 
 # 📊 GitHub Stats
 
