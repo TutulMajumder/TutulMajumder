@@ -31,23 +31,23 @@
 </p>
 
 # 💻 Tech Stack:
-## Languages
+### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,php,py,r" />
 </p>
-## Frontend
+### Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
-## Backend
+### Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" />
 </p>
-## Database
+### Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma" />
 </p>
-## Tools
+### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
 </p>
