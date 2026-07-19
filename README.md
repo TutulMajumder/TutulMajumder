@@ -35,18 +35,22 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,php,py,r" />
 </p>
+
 ### Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
+
 ### Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" />
 </p>
+
 ### Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma" />
-</p>
+</p> 
+
 ### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
