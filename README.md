@@ -5,20 +5,6 @@
 </p>
 
 # 💫 About Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/tutulm/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/TutulMajumder">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://tutul-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-15130F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
 - 💻 **Software Engineer Intern @ Tech Enovative**, working on RAG systems, LLM integration, and full-stack SaaS features
 - 🎓 **BSc in Computer Science and Engineering** at American International University-Bangladesh
 - 🚀 Full-stack developer, building with **Next.js, NestJS, PostgreSQL, Prisma**
