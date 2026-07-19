@@ -55,7 +55,7 @@
 ### Tools & Technologies
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/TutulMajumder)
 
-<img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+# <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 <p align="center">
   <img height="220" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TutulMajumder&theme=github_dark" />
