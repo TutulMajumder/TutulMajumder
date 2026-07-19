@@ -5,13 +5,14 @@
 </p>
 
 # 💫 About Me:
-- 💻 **Software Engineer Intern @ Tech Enovative**, working on RAG systems, LLM integration, and full-stack SaaS features
-- 🎓 **BSc in Computer Science and Engineering** at American International University-Bangladesh
-- 🚀 Full-stack developer, building with **Next.js, NestJS, PostgreSQL, Prisma**
-- 🤖 Currently exploring **AI/ML Engineering** — RAG pipelines, vector databases, embeddings
-- 🌱 Actively growing my skills across the stack, one project at a time
-- 📫 Reach me at: [majumder.tutul.364@gmail.com](mailto:majumder.tutul.364@gmail.com)
-- 🌐 Check out my work: [tutul-portfolio.vercel.app](https://tutul-portfolio.vercel.app)
+- 👋 Hi, I'm **[@TutulMajumder](https://github.com/TutulMajumder)** — I got into code by taking things apart just to see how they worked
+- 🧪 Currently a **Software Engineer Intern @ Tech Enovative**, building SaaS product with **Next.js + Nest.js + Prisma + Postgres**
+- 🎨 Turning designs into interfaces with **Next.js, React, TypeScript, Tailwind CSS**
+- ⚙️ Making things actually work with **NestJS, PostgreSQL, Prisma, Node.js, Express**
+- 🐳 Currently leveling up on **Docker** and going deep on **GenAI**
+- 🧩 Ask me about full-stack builds — I like owning the whole picture, not just one layer
+- 🌐 See it in action: [**Portfolio**](https://tutul-portfolio.vercel.app) · [**Resume**](https://drive.google.com/file/d/1w8acPdEaydnyjHVmrxL2Wjdlp1NoN4gZ/view?usp=sharing)
+- 📬 Let's talk: [**Email**](mailto:majumder.tutul.364@gmail.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tutul11tmt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2tul_aaaaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tutulm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Evernia22l) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:majumder.tutul.364@gmail.com) 
