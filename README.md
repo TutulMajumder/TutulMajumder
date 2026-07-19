@@ -1,7 +1,7 @@
 <h1 align="center">Hi, This is Tutul Majumder 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+Tech+Enovative;Curious+Full-Stack+Dev;Next.js%2C+NestJS%2C+PostgreSQL;Interested+in+AI%2FML+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+Tech+Enovative;Curious+Full-Stack+Web+Developer;Next.js%2C+NestJS%2C+PostgreSQL;Interested+in+AI%2FML+Engineering" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
