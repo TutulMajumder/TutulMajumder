@@ -5,8 +5,27 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently studying **Computer Science & Engineering (4th year)** at **American International University-Bangladesh (AIUB)**  <br>👯 I’m looking to collaborate on projects – reach me at **majumder.tutul.364@gmail.com**  <br>🌱 I’m currently learning **Machine Learning, Deep Learning, and NLP**  <br>🤝 I’m looking for help with **research ideas and real-world applications of AI**  <br>💬 Ask me about **Python, Data Science, and AI-related topics**  <br>⚡ Fun fact: *I believe every bug I fix teaches me more than any tutorial!*
+<p align="center">
+  <a href="https://www.linkedin.com/in/tutulm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/TutulMajumder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://tutul-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-15130F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
+---
+
+- 💻 Currently interning as a **Software Engineer Intern @ Tech Enovative**, working on RAG systems, LLM integration, and full-stack SaaS features
+- 🎓 Studying for my **BSc in Computer Science and Engineering** at American International University-Bangladesh
+- 🚀 Full-stack developer, building with **Next.js, NestJS, PostgreSQL, Prisma**
+- 🤖 Currently exploring **AI/ML Engineering** — RAG pipelines, vector databases, embeddings
+- 🌱 Actively growing my skills across the stack, one project at a time
+- 📫 Reach me at: [majumder.tutul.364@gmail.com](mailto:majumder.tutul.364@gmail.com)
+- 🌐 Check out my work: [tutul-portfolio.vercel.app](https://tutul-portfolio.vercel.app)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tutul11tmt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2tul_aaaaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tutulm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Evernia22l) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:majumder.tutul.364@gmail.com) 
