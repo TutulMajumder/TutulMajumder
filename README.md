@@ -1,3 +1,4 @@
+<img width="1584" height="394" alt="github_Banner" src="https://github.com/user-attachments/assets/365ea6a5-198f-4ebd-a24f-e5ecb173c865" />
 <h1 align="center">Hi, This is Tutul Majumder 👋</h1>
 
 <p align="center">
