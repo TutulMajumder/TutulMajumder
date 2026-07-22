@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern+%40+Tech+Enovative;Curious+Full-Stack+Web+Developer;Next.js%2C+NestJS%2C+PostgreSQL;Interested+in+AI%2FML+Engineering" alt="Typing SVG" />
 </p>
 
-## <img src="https://media0.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"><b> ABOUT ME:</b>y.gif" width="35"><b> ABOUT ME:</b>
+## <img src="https://media0.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"><b> ABOUT ME:
 - 👋 Hi, I'm **[@TutulMajumder](https://github.com/TutulMajumder)** — I got into code by taking things apart just to see how they worked
 - 🧪 Currently a **Software Engineer Intern @ Tech Enovative**, building SaaS product with **Next.js + Nest.js + Prisma + Postgres**
 - 🎨 Turning designs into interfaces with **Next.js, React, TypeScript, Tailwind CSS**
